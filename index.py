@@ -44,8 +44,7 @@ def Main():
                 get_PlayerMove()
             if compChoice == "rock" or "paper" or "scissors" and playerChoice =="rock" or "paper" or "scissors":
                 calculateWinner() 
-                
-                
+                            
 Main()
         
 
